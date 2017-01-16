@@ -1,4 +1,4 @@
 tribotscripts
 =============
 
-Storage for all of my Tribot Scripts
+A series of scripts written in Java intended to be used to automate processes in the Java-based game Runescape. 
